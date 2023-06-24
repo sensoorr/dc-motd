@@ -1,1 +1,1 @@
-Hello! This is a new discord bot and this should be working properly if you can see this!
+v0.1 of this bot. Created by sensorvr
